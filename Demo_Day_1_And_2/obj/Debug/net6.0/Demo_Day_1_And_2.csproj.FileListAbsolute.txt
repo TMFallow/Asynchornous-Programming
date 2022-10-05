@@ -1,0 +1,15 @@
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\bin\Debug\net6.0\Demo_Day_1_And_2.exe
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\bin\Debug\net6.0\Demo_Day_1_And_2.deps.json
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\bin\Debug\net6.0\Demo_Day_1_And_2.runtimeconfig.json
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\bin\Debug\net6.0\Demo_Day_1_And_2.dll
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\bin\Debug\net6.0\Demo_Day_1_And_2.pdb
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\obj\Debug\net6.0\Demo_Day_1_And_2.csproj.AssemblyReference.cache
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\obj\Debug\net6.0\Demo_Day_1_And_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\obj\Debug\net6.0\Demo_Day_1_And_2.AssemblyInfoInputs.cache
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\obj\Debug\net6.0\Demo_Day_1_And_2.AssemblyInfo.cs
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\obj\Debug\net6.0\Demo_Day_1_And_2.csproj.CoreCompileInputs.cache
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\obj\Debug\net6.0\Demo_Day_1_And_2.dll
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\obj\Debug\net6.0\refint\Demo_Day_1_And_2.dll
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\obj\Debug\net6.0\Demo_Day_1_And_2.pdb
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\obj\Debug\net6.0\Demo_Day_1_And_2.genruntimeconfig.cache
+D:\Demo Ngày 1 và 2\Demo_Day_1_And_2\Demo_Day_1_And_2\obj\Debug\net6.0\ref\Demo_Day_1_And_2.dll
